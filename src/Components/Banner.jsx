@@ -9,12 +9,11 @@ class Banner extends Component {
         return (
             <section className="container-banner">
 
-                    <a href="#home"><img id="profilepic" src={sk}  width="170" height="170" alt="profilepic"/></a>
-                    <h1> Hi! I'm Srinath Kunamalla </h1>
-                    <p id="paragarph1"> Software Engineer <br/>
-                    Youtube</p>
-                    <a id="logo" href="https://www.contentstack.com/" ><img src={cse} width="30" height="30" alt="cselogo"/></a> 
-                    
+                <a href="#home"><img id="profilepic" src={sk} width="170" height="170" alt="profilepic" /></a>
+                <h1> Hi! I'm Srinath Kunamalla </h1>
+                <p id="paragarph1"> Software Engineer <br />
+                </p>
+
             </section>
         )
     }
