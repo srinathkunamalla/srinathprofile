@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/profile/static/css/main.79b28cce.chunk.css",
+    "main.js": "/profile/static/js/main.7c9c3f88.chunk.js",
+    "main.js.map": "/profile/static/js/main.7c9c3f88.chunk.js.map",
+    "runtime~main.js": "/profile/static/js/runtime~main.90728b17.js",
+    "runtime~main.js.map": "/profile/static/js/runtime~main.90728b17.js.map",
+    "static/js/2.815c0981.chunk.js": "/profile/static/js/2.815c0981.chunk.js",
+    "static/js/2.815c0981.chunk.js.map": "/profile/static/js/2.815c0981.chunk.js.map",
+    "index.html": "/profile/index.html",
+    "precache-manifest.eb06ad3d0f57cbf74746f5aa1e79a346.js": "/profile/precache-manifest.eb06ad3d0f57cbf74746f5aa1e79a346.js",
+    "service-worker.js": "/profile/service-worker.js",
+    "static/css/main.79b28cce.chunk.css.map": "/profile/static/css/main.79b28cce.chunk.css.map",
+    "static/media/biopicimg.jpg": "/profile/static/media/biopicimg.eb0d38e2.jpg",
+    "static/media/burgerlogo.png": "/profile/static/media/burgerlogo.b8503d26.png",
+    "static/media/contactlogo.png": "/profile/static/media/contactlogo.e38766a1.png",
+    "static/media/csslogo.png": "/profile/static/media/csslogo.04cf122b.png",
+    "static/media/database.jpg": "/profile/static/media/database.719fefb4.jpg",
+    "static/media/forbidden.png": "/profile/static/media/forbidden.36ade360.png",
+    "static/media/html5logo.jpg": "/profile/static/media/html5logo.3a431a93.jpg",
+    "static/media/javascriptimg2.png": "/profile/static/media/javascriptimg2.184a7681.png",
+    "static/media/mngodbimg.png": "/profile/static/media/mngodbimg.d261a13e.png",
+    "static/media/sk.png": "/profile/static/media/sk.a94a2440.png",
+    "static/media/yt1.png": "/profile/static/media/yt1.deb49360.png"
+  }
+}
